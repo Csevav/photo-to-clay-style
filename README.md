@@ -14,37 +14,37 @@ This is a Codex Skill for turning storefronts, buildings, streets, objects, pets
 
 The examples below were generated with this Skill's photo-transformation workflow. They demonstrate different presentation treatments and are not guaranteed reconstructions of unseen structures.
 
-### 收藏模型与金属底座 | Collectible Model with Metal Base
+### Costa Coffee
 
-![Costa Coffee clay collectible with a clean metal display base](examples/costa-metal-base.jpg)
+![Costa Coffee clay model](examples/costa-coffee.jpg)
 
-独立、薄型、圆形的银色金属底座，配合低调的直接蚀刻文字。
+咖啡店门面转换为可爱的 clay 收藏模型，并放置在简洁的白色圆形底座上。
 
-A separate, thin, circular silver display base with subtle directly engraved identification.
+A coffee storefront transformed into a cute clay collectible on a simple white circular base.
 
-### 收藏模型与纯白底座 | Collectible Model with White Base
+### 爷爷不泡茶 | NO YEYE NO TEA
 
-![Costa Coffee clay collectible with a white display base](examples/costa-white-base.jpg)
+![NO YEYE NO TEA clay model](examples/no-yeye-no-tea.jpg)
 
-纯白白模风格的展示底座，突出上方的店铺模型。
+蓝色茶饮店门面、胡子标志和植物被转换为 clay 微缩模型。
 
-A clean white prototype-style display base that keeps attention on the storefront model.
+A blue tea storefront, mustache logo, and layered plants transformed into a clay miniature.
 
-### 冰箱贴实验 | Fridge Magnet Experiment
+### Serene Hill 山墨堂
 
-![Costa Coffee clay fridge magnet](examples/costa-fridge-magnet.jpg)
+![Serene Hill clay model](examples/serene-hill.jpg)
 
-将照片压缩成适合纪念和赠送的立体冰箱贴。
+保留悬挑屋顶、夜景灯光和玻璃体块的 clay 建筑模型。
 
-A compact dimensional fridge magnet treatment designed as a small souvenir or gift.
+A clay architectural model preserving the cantilevered roof, dusk lighting, and glass volume.
 
-### 摆件盲盒实验 | Blind-Box Figurine Experiment
+### 天坛 | Temple of Heaven
 
-![Costa Coffee clay blind-box figurine](examples/costa-blind-box.jpg)
+![Temple of Heaven clay model](examples/temple-of-heaven.jpg)
 
-将照片转成圆润、可爱的收藏摆件；这是实验性方向，当前 Skill 默认仍以 clay 模型为主。
+将屋顶层叠、彩色装饰、台基和中轴线转换为可爱的 clay 纪念模型。
 
-A rounded, cute collectible figurine treatment. This is an experimental direction; the current Skill remains focused on clay models by default.
+A cute clay commemorative model preserving the layered roofs, colorful ornament, terraces, and central axis.
 
 ## 能做什么 | What It Does
 
@@ -124,10 +124,10 @@ clay-photo-style/
 ├── LICENSE
 ├── README.md
 ├── examples/
-│   ├── costa-metal-base.jpg
-│   ├── costa-white-base.jpg
-│   ├── costa-fridge-magnet.jpg
-│   └── costa-blind-box.jpg
+│   ├── costa-coffee.jpg
+│   ├── no-yeye-no-tea.jpg
+│   ├── serene-hill.jpg
+│   └── temple-of-heaven.jpg
 └── agents/
     └── openai.yaml
 ```
