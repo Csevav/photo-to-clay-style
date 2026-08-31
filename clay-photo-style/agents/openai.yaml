@@ -1,0 +1,7 @@
+interface:
+  display_name: "Clay Photo Style"
+  short_description: "Turn photos into soft clay-style 3D models"
+  default_prompt: "Use $clay-photo-style to transform the uploaded photo into a soft, rounded clay-style 3D model image."
+
+policy:
+  allow_implicit_invocation: true
