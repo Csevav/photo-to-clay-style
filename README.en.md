@@ -1,4 +1,4 @@
-# Clay Photo Style
+# Photo to Clay Style
 
 [中文版](README.md)
 
@@ -53,7 +53,7 @@ The base may use clean silver titanium or stainless steel with a precise, unifor
 Invoke it explicitly in Codex:
 
 ```text
-Use $clay-photo-style to transform the uploaded photo into a clay miniature model.
+Use $photo-to-clay-style to transform the uploaded photo into a clay miniature model.
 ```
 
 For a Chinese request, you can also write:
@@ -81,7 +81,7 @@ Avoid fully orthographic projection, obvious angled views, excessive wide-angle 
 ## Project Structure
 
 ```text
-clay-photo-style/
+photo-to-clay-style/
 ├── SKILL.md
 ├── LICENSE
 ├── README.md

@@ -1,9 +1,9 @@
 ---
-name: clay-photo-style
-description: "Transform an uploaded photo into a soft, rounded clay-style 3D model image while preserving the subject."
+name: photo-to-clay-style
+description: "Transform an uploaded photo into a soft, rounded clay-style 3D model while preserving the subject, composition, and recognizable details."
 ---
 
-# Clay Photo Style
+# Photo to Clay Style
 
 Use this skill when the user provides a photo and asks for a clay, polymer-clay, miniature-diorama, or soft 3D toy-like reinterpretation.
 

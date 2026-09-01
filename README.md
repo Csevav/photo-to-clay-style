@@ -1,4 +1,4 @@
-# Clay Photo Style
+# Photo to Clay Style
 
 [English](README.en.md)
 
@@ -53,7 +53,7 @@
 在 Codex 中显式调用：
 
 ```text
-Use $clay-photo-style to transform the uploaded photo into a clay miniature model.
+Use $photo-to-clay-style to transform the uploaded photo into a clay miniature model.
 ```
 
 也可以直接用中文描述需求：
@@ -81,7 +81,7 @@ Use $clay-photo-style to transform the uploaded photo into a clay miniature mode
 ## 项目结构
 
 ```text
-clay-photo-style/
+photo-to-clay-style/
 ├── SKILL.md
 ├── LICENSE
 ├── README.md
