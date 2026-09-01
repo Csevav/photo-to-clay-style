@@ -1,7 +1,0 @@
-interface:
-  display_name: "LEGO Photo Style"
-  short_description: "Turn photos into detailed LEGO collectible models"
-  default_prompt: "Use $lego-photo-style to transform the uploaded photo into a complete, high-resolution LEGO-built collectible model."
-
-policy:
-  allow_implicit_invocation: true
