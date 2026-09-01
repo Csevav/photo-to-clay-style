@@ -1,0 +1,7 @@
+interface:
+  display_name: "Glass Photo Style"
+  short_description: "Turn photos into clean rendered-glass 3D models"
+  default_prompt: "Use $glass-photo-style to transform the uploaded photo into a clean, collectible rendered-glass miniature model."
+
+policy:
+  allow_implicit_invocation: true
