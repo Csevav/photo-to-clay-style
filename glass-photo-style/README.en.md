@@ -29,7 +29,9 @@ Preserve the three circular roof tiers, blue-green ornament, red architectural b
 - Keep signs, logos, and lettering as raised opaque components so they remain crisp and readable
 - Generate high-resolution images with architectural detail and clear component boundaries
 - Use a high-end studio product composition: center the hero object horizontally and show the complete leftmost and rightmost structures
-- Leave at least 20% clear space on all four sides instead of clipping or crowding the model
+- Leave at least 20% clear space on all four sides; use a larger or wider canvas when needed instead of crowding the model
+- Target a complete-model height of roughly 60–70% of the canvas so the subject remains prominent without feeling cramped
+- For wide buildings, expand the horizontal canvas instead of shrinking the model excessively
 - Use a clean background, soft studio lighting, precise highlights, and clear contact shadows
 
 ## Usage
@@ -50,8 +52,10 @@ Transform this photo into a clean rendered-glass miniature with a mix of clear a
 - Do not force a clearly oblique source into a front-facing or three-quarter view
 - Do not preserve a tilted base, skewed horizontal lines, or unnecessary convergence in a near-front source
 - Do not allow less than 20% clear space on any side when the subject can be reframed to fit
+- Do not solve insufficient margins by enlarging or cropping the model; expand the canvas or reduce the model scale instead
 - Do not force every source into a front-facing or three-quarter view
 - Do not let the object, base, shadow, or any major component touch the image edge
+- Do not make the model so small that it loses visual focus, or so large that it breaks the 20% safety margins
 - Do not add noise, oversharpening, or fake detail as a substitute for high resolution
 - Do not add unrelated buildings, objects, packaging, a display case, a watermark, or random text
 
